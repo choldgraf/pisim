@@ -6,3 +6,4 @@ dependencies:
   - numpy
   - ipywidgets
   - matplotlib
+  - voila
