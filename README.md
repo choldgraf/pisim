@@ -16,4 +16,4 @@ This notebook shows simulates this with:
   
 Click the Binder link below, and you can play with this interactively:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/choldgraf/pisim/master?urlpath=voila%2Fsimulate_pi.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/choldgraf/pisim/master?urlpath=voila)
